@@ -1,0 +1,31 @@
+#main {
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+}
+.black {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: rgb(238, 238, 213);
+    font-size:50px;
+    text-align:center;
+    display: table-cell;
+    vertical-align:middle;
+}
+
+.white {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: rgb(125,148,93);
+    font-size:50px;
+    text-align:center;
+    color: #000;
+    
+}
+.table{
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: 28%;
+    
+}
